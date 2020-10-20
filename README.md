@@ -1,6 +1,6 @@
 # Forest Fire Predictions Simple Flask App in Python
 
-#### Simple App Template to deploy and showcase your Machine Learning Model in Python. Deployed on the server using Flask.
+#### Simple App Template to deploy and showcase your Forest Fire Machine Learning Prediction Model in Python. Deployed on the server using Flask.
 
 #### [Watch the live demo of the app here](http://kfpro.pythonanywhere.com/forestfirepreds) at kfpro.pythonanywhere.com/forestfirepreds !
 
