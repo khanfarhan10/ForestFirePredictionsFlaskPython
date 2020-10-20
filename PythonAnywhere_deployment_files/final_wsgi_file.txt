@@ -1,5 +1,12 @@
 # This file contains the WSGI configuration required to serve up your
-# web application at http://khanfarhan10.pythonanywhere.com/
+# web application at http://<your-username>.pythonanywhere.com/
+# It works by setting the variable 'application' to a WSGI handler of some
+# description.
+#
+# The below has been auto-generated for your Flask project
+
+# This file contains the WSGI configuration required to serve up your
+# web application at http://kfpro.pythonanywhere.com/
 # It works by setting the variable 'application' to a WSGI handler of some
 # description.
 #
@@ -76,7 +83,7 @@ import sys
 ## "git clone git@github.com/myusername/myproject.git"
 ## ...or uploaded files to the directory "myproject", then you should
 ## specify "/home/khanfarhan10/myproject"
-path = '/home/khanfarhan10/SimpleCalcEvalPython/'
+path = '/home/kfpro/ForestFirePredictionsFlaskPython/'
 if path not in sys.path:
     sys.path.append(path)
 #
@@ -88,3 +95,5 @@ from app import app as application
 # not necessary on PythonAnywhere.  And you should make sure your code
 # does *not* invoke the flask development server with app.run(), as it
 # will prevent your wsgi file from working.
+
+
